@@ -1,0 +1,47 @@
+
+#loginArea{
+		border:1px solid #ddd;}
+
+#login_name,#signup_name {
+    padding: 5px 5px 0 30px;
+}
+#signup_emil{
+    padding: 10px 5px 0 30px;
+}
+#login_pass{
+    padding: 5px 5px 0 30px;
+	background: url("../images/sprit.png") no-repeat scroll 4px -145px #171717;
+}
+#signup_pass {
+    padding: 10px 5px 0 30px;
+	background: url("../images/sprit.png") no-repeat scroll 4px -145px #171717;
+}
+input[type="checkbox"] {
+    display:inline;
+	padding:0;
+}
+input[type="checkbox"] + label span {
+    margin:0;
+    background:none;
+}
+input[type="checkbox"] + label {
+	padding:0 10px 0 0;
+}
+.privacyContainer,.contactContainer,.categoryContainer,.cartContainer,.checkoutContainer,.faqContainer,.helpContainer,.paymentContainer,.AccountContainer{
+		width:918px;
+		height:auto;
+		padding:10px;
+		margin:0 0 10px 0;
+		border:1px solid #ddd;}
+.prductDetailsLeft{
+		width:698px;
+		height:auto;
+		border:1px solid #ddd;}
+.prductDetailsRight{
+		width:218px;
+		border:1px solid #ddd;
+		min-height:398px;
+		height:auto !important;
+		height:398px;}
+.hoverMain{
+		border:1px solid #ddd;}

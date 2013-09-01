@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'KlavikaMedCapsMedium';
+    src: url('klavikamedcaps-sc.eot');
+    src: url('klavikamedcaps-sc.eot') format('embedded-opentype'),
+         url('klavikamedcaps-sc.woff') format('woff'),
+         url('klavikamedcaps-sc.ttf') format('truetype'),
+         url('klavikamedcaps-sc.svg#KlavikaMedCapsMedium') format('svg');
+}

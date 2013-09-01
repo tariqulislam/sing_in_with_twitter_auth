@@ -1,0 +1,77 @@
+@font-face {
+    font-family: 'KlavikaBoldBold';
+    src: url('klavikaboldbold.eot');
+    src: url('klavikaboldbold.eot') format('embedded-opentype'),
+         url('klavikaboldbold.woff') format('woff'),
+         url('klavikaboldbold.ttf') format('truetype'),
+         url('klavikaboldbold.svg#KlavikaBoldBold') format('svg');
+}
+
+@font-face {
+    font-family: 'KlavikaBoldCapsBold';
+    src: url('klavikaboldcaps-sc.eot');
+    src: url('klavikaboldcaps-sc.eot') format('embedded-opentype'),
+         url('klavikaboldcaps-sc.woff') format('woff'),
+         url('klavikaboldcaps-sc.ttf') format('truetype'),
+         url('klavikaboldcaps-sc.svg#KlavikaBoldCapsBold') format('svg');
+}
+
+@font-face {
+    font-family: 'KlavikaMedCapsMedium';
+    src: url('klavikamedcaps-sc.eot');
+    src: url('klavikamedcaps-sc.eot') format('embedded-opentype'),
+         url('klavikamedcaps-sc.woff') format('woff'),
+         url('klavikamedcaps-sc.ttf') format('truetype'),
+         url('klavikamedcaps-sc.svg#KlavikaMedCapsMedium') format('svg');
+}
+
+
+
+@font-face {
+    font-family: 'KlavikaLightLightOs';
+    src: url('klavikalight-osf.eot');
+    src: url('klavikalight-osf.eot') format('embedded-opentype'),
+         url('klavikalight-osf.woff') format('woff'),
+         url('klavikalight-osf.ttf') format('truetype'),
+         url('klavikalight-osf.svg#KlavikaLightLight') format('svg');
+}
+
+
+@font-face {
+    font-family: 'KlavikaLightLight';
+    src: url('klavikalight-tf.eot');
+    src: url('klavikalight-tf.eot') format('embedded-opentype'),
+         url('klavikalight-tf.woff') format('woff'),
+         url('klavikalight-tf.ttf') format('truetype'),
+         url('klavikalight-tf.svg#KlavikaLightLight') format('svg');
+}
+
+
+@font-face {
+    font-family: 'KlavikaLightCapsLightSc';
+    src: url('klavikalightcaps-sc.eot');
+    src: url('klavikalightcaps-sc.eot') format('embedded-opentype'),
+         url('klavikalightcaps-sc.woff') format('woff'),
+         url('klavikalightcaps-sc.ttf') format('truetype'),
+         url('klavikalightcaps-sc.svg#KlavikaLightCapsLight') format('svg');
+}
+
+@font-face {
+    font-family: 'KlavikaRegCapsRegular';
+    src: url('klavikaregcaps-sc.eot');
+    src: url('klavikaregcaps-sc.eot') format('embedded-opentype'),
+         url('klavikaregcaps-sc.woff') format('woff'),
+         url('klavikaregcaps-sc.ttf') format('truetype'),
+         url('klavikaregcaps-sc.svg#KlavikaRegCapsRegular') format('svg');
+}
+
+
+@font-face {
+    font-family: 'KlavikaRegularRegular';
+    src: url('klavikaregular-tf.eot');
+    src: url('klavikaregular-tf.eot') format('embedded-opentype'),
+         url('klavikaregular-tf.woff') format('woff'),
+         url('klavikaregular-tf.ttf') format('truetype'),
+         url('klavikaregular-tf.svg#KlavikaRegularRegular') format('svg');
+}
+

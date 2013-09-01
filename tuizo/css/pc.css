@@ -1,0 +1,32 @@
+
+#wrapper {
+	margin:0 auto;
+	max-width:1200px; 
+	height:auto;
+	font-family:klavika_regularregular, Arial, Helvetica, sans-serif;
+	padding-bottom:30px !important;
+	padding-top:102px;
+}
+.inner {
+	margin:0 auto;
+	max-width:1200px; 
+	height:auto;
+	font-family:klavika_regularregular, Arial, Helvetica, sans-serif;
+	padding-bottom:30px !important;
+}
+
+#innerContainer{
+		width:980px;
+		height:auto;
+		margin:0 auto;
+		display:block;}
+.pcHide{
+		display:none;}
+		
+.aboutTopImg a{
+		width:25%;
+		margin:0 !important;
+		display:block;}
+.aboutTopImg a img{
+		width:90% !important;
+		margin:0 5% !important;}

@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'KlavikaRegularRegular';
+    src: url('klavikaregular-tf.eot');
+    src: url('klavikaregular-tf.eot') format('embedded-opentype'),
+         url('klavikaregular-tf.woff') format('woff'),
+         url('klavikaregular-tf.ttf') format('truetype'),
+         url('klavikaregular-tf.svg#KlavikaRegularRegular') format('svg');
+}

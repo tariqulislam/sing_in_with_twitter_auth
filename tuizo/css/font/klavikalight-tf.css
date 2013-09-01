@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'KlavikaLightLight';
+    src: url('klavikalight-tf.eot');
+    src: url('klavikalight-tf.eot') format('embedded-opentype'),
+         url('klavikalight-tf.woff') format('woff'),
+         url('klavikalight-tf.ttf') format('truetype'),
+         url('klavikalight-tf.svg#KlavikaLightLight') format('svg');
+}

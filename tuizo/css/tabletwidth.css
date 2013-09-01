@@ -1,0 +1,43 @@
+
+#wrapper, .inner {
+	max-width:900px; 
+	padding-bottom:30px !important;
+
+}
+.header {
+    width:100% !important;
+}
+#innerContainer{
+		max-width:900px;}
+/*--------------about---------------*/
+.aboutTopImg {
+    display: block;
+    height: auto;
+    margin:0 5% !important;
+    overflow: hidden;
+    width: 90% !important;
+}
+.aboutTopImg a{
+		width:25%;
+		margin:0 !important;
+		display:block;}
+.aboutTopImg a img{
+		width:90% !important;
+		margin:0 5% !important;}
+.NewsBox {
+    display: block;
+    height: auto;
+    margin: 0 3% !important;
+    overflow: hidden ;
+    width: 94% !important;
+}
+/*--------------faq---------------*/
+.faqQuestionAns p,.faqQuestionAns h6{
+		padding-left:10px !important;}
+.mobileHide,.tabletHide{
+		display:none;}
+.tabletShow{
+		display:block !important;}
+.styled select {
+    width: 121% !important;
+}

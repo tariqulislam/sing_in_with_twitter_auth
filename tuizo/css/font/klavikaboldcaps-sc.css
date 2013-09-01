@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'KlavikaBoldCapsBold';
+    src: url('klavikaboldcaps-sc.eot');
+    src: url('klavikaboldcaps-sc.eot') format('embedded-opentype'),
+         url('klavikaboldcaps-sc.woff') format('woff'),
+         url('klavikaboldcaps-sc.ttf') format('truetype'),
+         url('klavikaboldcaps-sc.svg#KlavikaBoldCapsBold') format('svg');
+}

@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'KlavikaMediumMedium';
+    src: url('klavikamedium-tf.eot');
+    src: url('klavikamedium-tf.eot') format('embedded-opentype'),
+         url('klavikamedium-tf.woff') format('woff'),
+         url('klavikamedium-tf.ttf') format('truetype'),
+         url('klavikamedium-tf.svg#KlavikaMediumMedium') format('svg');
+}

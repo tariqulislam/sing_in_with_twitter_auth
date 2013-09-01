@@ -1,0 +1,23 @@
+@charset "utf-8";
+/* CSS Document */
+
+.bsimgzoomwrap
+{
+	display:block;
+}
+.bsimgzoomwrap img
+{
+	width:100%;
+	height:235px;
+}
+.zoomcontent
+{
+	width:100%;
+	float:left;
+}
+
+/**
+ * For IE 6/7 only
+ * Include this rule to trigger hasLayout and contain floats.
+ */
+
